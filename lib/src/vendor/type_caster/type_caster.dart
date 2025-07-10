@@ -1,3 +1,5 @@
+library type_caster;
+
 // core
 export 'src/core/caster_core.dart';
 export 'src/core/types.dart';
