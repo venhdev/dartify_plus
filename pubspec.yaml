@@ -1,8 +1,8 @@
 name: dartify_plus
 description: Dartify Plus — Essential helpers to streamline your Dart and Flutter code.
 
-version: 0.0.2-alpha.3+2
-# repository: https://github.com/my_org/my_repo
+version: 0.0.1-alpha
+repository: https://github.com/venhdev/dartify_plus
 
 environment:
   sdk: ^3.6.1

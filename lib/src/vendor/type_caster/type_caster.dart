@@ -1,4 +1,4 @@
-library type_caster;
+library;
 
 // core
 export 'src/core/caster_core.dart';
