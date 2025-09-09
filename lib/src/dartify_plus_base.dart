@@ -1,3 +1,1 @@
-class Awesome {
-  bool get isAwesome => true;
-}
+// This is a Dart package that provides a set of utilities for working with Dart code.
